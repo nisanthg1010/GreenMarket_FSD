@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "67b6c46768148ced07b57f17"
+  },
+  "name": "Oranges",
+  "image": "https://img.freepik.com/free-photo/fresh-orange-isolated-white-background_93675-131671.jpg",
+  "description": "A citrus fruit known for its tangy and sweet taste, rich in Vitamin C, aiding in immunity and skin health. Commonly used for juices and desserts.",
+  "category": "Fruits",
+  "price": 50,
+  "countInStock": 10,
+  "createdAt": {
+    "$date": "2025-02-20T05:57:59.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:46:32.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9d98a141153e02e19b327"
+  },
+  "name": "Apple",
+  "image": "http://fillyourplate.org/blog/wp-content/uploads/2014/08/bigstock-Ripe-apples-on-the-tree-51573631.jpg",
+  "description": " A crisp and juicy fruit, apples come in various colors and flavors, rich in fiber and antioxidants. They are great for snacking, baking, and juicing.",
+  "category": "Fruits",
+  "price": 250,
+  "countInStock": 100,
+  "createdAt": {
+    "$date": "2025-02-22T14:04:58.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:46:13.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e3bd85fa8f37d3c5b034"
+  },
+  "name": "WaterMelon",
+  "image": "https://tse2.mm.bing.net/th?id=OIP.eigzaJUdGGj5hpoyMtYpwQHaFj&pid=Api&P=0&h=180",
+  "description": "A refreshing summer fruit with a high-water content, sweet taste, and hydrating properties. Perfect for juices, smoothies, and salads.",
+  "category": "Fruits",
+  "price": 70,
+  "countInStock": 40,
+  "createdAt": {
+    "$date": "2025-02-22T14:48:29.154Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:48:29.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e41585fa8f37d3c5b036"
+  },
+  "name": "Pineapple",
+  "image": "https://tse2.mm.bing.net/th?id=OIP.cgE8yhMLRe3bheDi2ceFQAHaEL&pid=Api&P=0&h=180",
+  "description": "A tropical fruit with a tangy-sweet flavor, rich in Vitamin C and bromelain, which aids digestion. Used in juices, desserts, and savory dishes.",
+  "category": "Fruits",
+  "price": 150,
+  "countInStock": 50,
+  "createdAt": {
+    "$date": "2025-02-22T14:49:57.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:49:57.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e45585fa8f37d3c5b038"
+  },
+  "name": "Strawberry",
+  "image": "https://www.thespruce.com/thmb/vp67m8j7PBJkWAYVJBlaZmPnrH0=/5400x3604/filters:fill(auto,1)/how-to-grow-strawberries-from-seed-2539934-01-73c138a5c3454c41b285a56c9807ad01.jpg",
+  "description": "A bright red, juicy, and sweet fruit packed with antioxidants and Vitamin C. Often used in smoothies, desserts, and jams.",
+  "category": "Fruits",
+  "price": 250,
+  "countInStock": 100,
+  "createdAt": {
+    "$date": "2025-02-22T14:51:01.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:51:01.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e49f85fa8f37d3c5b03a"
+  },
+  "name": "Avocado",
+  "image": "https://1.bp.blogspot.com/-5uLZeRugUlk/X_gkcafjUbI/AAAAAAAAAFU/tfkgHcSvLlQQFYMT90bap538S1JwMKYjACLcBGAsYHQ/s1200/avocados-3-1200.jpg",
+  "description": " A creamy, nutrient-dense fruit rich in healthy fats, fiber, and vitamins. Ideal for salads, guacamole, and spreads.",
+  "category": "Fruits",
+  "price": 250,
+  "countInStock": 50,
+  "createdAt": {
+    "$date": "2025-02-22T14:52:15.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:52:15.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e4e185fa8f37d3c5b03c"
+  },
+  "name": "Kiwi ",
+  "image": "https://tse4.mm.bing.net/th?id=OIP.yuiX9XnlI-1cHGWfb7E9FAHaEK&pid=Api&P=0&h=180",
+  "description": "A small, fuzzy fruit with vibrant green flesh, tangy-sweet taste, and high Vitamin C content. Consumed fresh or in fruit salads.",
+  "category": "Fruits",
+  "price": 190,
+  "countInStock": 50,
+  "createdAt": {
+    "$date": "2025-02-22T14:53:21.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:53:21.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e52585fa8f37d3c5b03e"
+  },
+  "name": "Berry",
+  "image": "https://tse4.mm.bing.net/th?id=OIP.haLUGfi82p6t411-pvHUbQHaFE&pid=Api&P=0&h=180",
+  "description": "A category of small, juicy, and often sweet or tart fruits, including strawberries, blueberries, and raspberries, packed with antioxidants.",
+  "category": "Fruits",
+  "price": 200,
+  "countInStock": 40,
+  "createdAt": {
+    "$date": "2025-02-22T14:54:29.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:54:29.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e57385fa8f37d3c5b040"
+  },
+  "name": "Blueberry",
+  "image": "https://tse3.mm.bing.net/th?id=OIP.efX8Klg2ORrQoijSDzFG_gHaE7&pid=Api&P=0&h=180",
+  "description": "A tiny, deep-blue fruit with a sweet-tart flavor, loaded with antioxidants and vitamins. Commonly used in smoothies, cereals, and baked goods.",
+  "category": "Fruits",
+  "price": 150,
+  "countInStock": 35,
+  "createdAt": {
+    "$date": "2025-02-22T14:55:47.477Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:55:47.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e5b885fa8f37d3c5b042"
+  },
+  "name": "Papaya ",
+  "image": "https://tse1.mm.bing.net/th?id=OIP.iV5F_58desK40qxwM8Wf3gHaFj&pid=Api&P=0&h=180",
+  "description": "A tiny, deep-blue fruit with a sweet-tart flavor, loaded with antioxidants and vitamins. Commonly used in smoothies, cereals, and baked goods.",
+  "category": "Fruits",
+  "price": 180,
+  "countInStock": 100,
+  "createdAt": {
+    "$date": "2025-02-22T14:56:56.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:56:56.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e5fe85fa8f37d3c5b044"
+  },
+  "name": "Lemon",
+  "image": "https://tse1.mm.bing.net/th?id=OIP.M--0VpFRIk7-_PheyTEC8AHaFj&pid=Api&P=0&h=180",
+  "description": "A highly acidic citrus fruit, known for its tangy flavor, rich in Vitamin C. Used in cooking, beverages, and skincare",
+  "category": "Fruits",
+  "price": 10,
+  "countInStock": 100,
+  "createdAt": {
+    "$date": "2025-02-22T14:58:06.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:58:06.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e63685fa8f37d3c5b046"
+  },
+  "name": "Banana ",
+  "image": "https://tse3.mm.bing.net/th?id=OIP.rYDhN8E1MHf6oE63MM9C-wHaFj&pid=Api&P=0&h=180",
+  "description": "A naturally sweet, energy-boosting fruit rich in potassium and fiber. Perfect for snacking, smoothies, and desserts.",
+  "category": "Fruits",
+  "price": 15,
+  "countInStock": 100,
+  "createdAt": {
+    "$date": "2025-02-22T14:59:02.271Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T14:59:02.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e67085fa8f37d3c5b048"
+  },
+  "name": "Cucumber ",
+  "image": "https://tse2.mm.bing.net/th?id=OIP.SfIcuipEIhZJZi7RGb-8HAHaEo&pid=Api&P=0&h=180",
+  "description": "A hydrating fruit with a crisp texture and mild taste, rich in water and fiber, often used in salads and detox drinks.",
+  "category": "Fruits",
+  "price": 150,
+  "countInStock": 40,
+  "createdAt": {
+    "$date": "2025-02-22T15:00:00.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:00:00.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b9e8c985fa8f37d3c5b04b"
+  },
+  "name": "Mongo",
+  "image": "https://tse2.mm.bing.net/th?id=OIP.HreAKiUU2_bRFoN3rShTkwHaEK&pid=Api&P=0&h=180",
+  "description": "A tropical fruit known for its rich, sweet flavor and juicy texture, high in Vitamin A and C. Enjoyed fresh, in smoothies, and desserts.",
+  "category": "Fruits",
+  "price": 120,
+  "countInStock": 50,
+  "createdAt": {
+    "$date": "2025-02-22T15:10:01.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-22T15:10:01.966Z"
+  },
+  "__v": 0
+}]

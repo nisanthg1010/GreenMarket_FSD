@@ -1,0 +1,37 @@
+[{
+    "id":"1234ju8u87678",
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "price": 89.99,
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "ratings": 0,
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        }
+    ],
+    "category": "Electronics",
+
+    "seller": "Apple",
+    "stock": 10,
+    "numOfReviews": 0,
+    "Date": "Date.now()"  
+},
+{
+    "id":"hy656y6544ui",
+    "name": "Boat Wireless Bluetooth Headphones",
+    "price": 50.99,
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "ratings": 0,
+    "images": [
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Electronics",
+
+    "seller": "Apple",
+    "stock": 10,
+    "numOfReviews": 0,
+    "Date": "Date.now()"  
+}
+]
